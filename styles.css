@@ -1,0 +1,45 @@
+* {
+    color: brown;
+}
+
+.color-row{
+    color: chartreuse;
+}
+
+.spacex {
+    margin: 0 10em;
+}
+
+
+.card-img-top {
+    height: 224px;
+    align-self: center;
+    width: 154px;
+}
+.modal-body {
+    padding: 10px;
+    color: black;
+    height: 1px;
+}
+
+.card-title {
+    color: black;
+
+}
+.card-text {
+    color: rgb(78, 76, 76);
+}
+
+.modal-content {
+position: relative;
+display: flex;
+flex-direction: column;
+width: 58%;
+color: var(--bs-modal-color);
+pointer-events: auto;
+background-color: var(--bs-modal-bg);
+background-clip: padding-box;
+border: var(--bs-modal-border-width) solid var(--bs-modal-border-color);
+border-radius: var(--bs-modal-border-radius);
+outline: 0;
+}
